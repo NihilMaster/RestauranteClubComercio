@@ -40,3 +40,4 @@ out/
 */application_local.yml
 !**/src/main/java/reources/application_local.yml
 /src/main/resources/application_local.yml
+/src/main/resources/application-local.env
